@@ -1,0 +1,13 @@
+﻿  main.cpp
+  dataParsing.cpp
+  fileSupport.cpp
+  help.cpp
+  mainFunctions.cpp
+C:\Users\Domer\Desktop\studia\PPK\4fcd4c22-gr98-repo\projekt\DarwinPPK\DarwinPPK\mainFunctions.cpp(18,77): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Domer\Desktop\studia\PPK\4fcd4c22-gr98-repo\projekt\DarwinPPK\DarwinPPK\mainFunctions.cpp(33,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  DarwinPPK.vcxproj -> C:\Users\Domer\Desktop\studia\PPK\4fcd4c22-gr98-repo\projekt\DarwinPPK\x64\Debug\DarwinPPK.exe

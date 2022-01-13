@@ -1,0 +1,6 @@
+﻿  dataParsing.cpp
+  mainFunctions.cpp
+C:\Users\Domer\Desktop\studia\PPK\4fcd4c22-gr98-repo\projekt\DarwinPPK\DarwinPPK\mainFunctions.cpp(29,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Domer\Desktop\studia\PPK\4fcd4c22-gr98-repo\projekt\DarwinPPK\DarwinPPK\mainFunctions.cpp(33,72): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  DarwinPPK.vcxproj -> C:\Users\Domer\Desktop\studia\PPK\4fcd4c22-gr98-repo\projekt\DarwinPPK\Debug\DarwinPPK.exe
